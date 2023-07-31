@@ -1,1 +1,11 @@
-this is a coll feature 
+this is a coll feature i
+
+git log 
+git log --oneline --pretty .
+git config --global ""
+git restore file
+git rm --cached 
+
+
+
+
