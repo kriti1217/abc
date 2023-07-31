@@ -6,6 +6,7 @@ git config --global ""
 git restore file
 git rm --cached 
 
+heloo
 
 
 
